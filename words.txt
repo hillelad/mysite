@@ -1,0 +1,11 @@
+computer
+house
+telephone
+carnival
+hello
+home
+moon
+city
+ship
+
+play
