@@ -8,6 +8,11 @@
    background-color: #CC2222;
 }
 
+
+.winner {
+   background-color: #0000FF;
+}
+
 .padding {
    padding: 20px 20px 40px 40px;
 }
@@ -16,7 +21,13 @@
   font-family: monospace;
   font-weight: bold;
 }
+
 .message h1 {
+   color: #FFFFFF;
+   font-size: 40px;
+}
+
+.winner h1 {
    color: #FFFFFF;
    font-size: 40px;
 }
